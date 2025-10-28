@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Mr.+Mosses;I+see+code+in+my+sleep.;It's+terrifying." alt="typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=2000&pause=1000&color=00FF99&center=true&vCenter=true&width=550&lines=Mosses;I+see+code+in+my+sleep.;It's+terrifying." alt="typing animation" />
 </h1>
 
 <p align="center">
