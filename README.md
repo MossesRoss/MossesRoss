@@ -4,7 +4,7 @@
 ## I Do...
 
 * Architect backends that don’t break under scale.
-* Build AI systems that automate what we waste time on.
+* Build systems that automate what we waste time on.
 * Solve enterprise performance headpains with clean, measurable engineering.
 
 * **Now:** Technical Consultant @ Cloudio Technologies (Dubai)
@@ -14,12 +14,12 @@
 
 ## Raw Power of mine
 
-* High concurrency backend systems
+* High volume backend systems
 * AI/ML *(Not as a keyword)* **Integration**
-* Enterprise grade reliability
+* Enterprise grade solutioning
 * CI/CD + system resilience
 
-Stack: **Node.js · Python (TensorFlow) · Flutter · PostgreSQL · AWS · Docker**
+Stack: **Node.js · Python (TensorFlow) · Flutter · SQL · AWS · Docker**
 
 ---
 
