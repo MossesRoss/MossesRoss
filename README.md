@@ -7,7 +7,7 @@
 * Build systems that automate what we waste time on.
 * Solve enterprise performance headpains with clean, measurable engineering.
 
-* **Now:** Technical Consultant @ Cloudio Technologies (Dubai)
+* **Now:** Technical Consultant @ MetaFyGx Technologies (Dubai)
 * **Notable Win:** Mentored talent to a 58 LPA offer at Palo Alto Networks
 
 ---
