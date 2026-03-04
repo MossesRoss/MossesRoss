@@ -19,7 +19,7 @@
 
 ---
 
-* **Now:** Founder @ Srini Corp (Dubai)
+* **Now:** Founder @ Srini Corp (Delaware)
 
 ---
 
