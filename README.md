@@ -19,7 +19,7 @@
 
 ---
 
-* **Now:** Technical Consultant @ MetaFyGx Technologies (Dubai)
+* **Now:** Founder @ Srini Corp (Dubai)
 
 ---
 
