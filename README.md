@@ -1,26 +1,12 @@
-# **Architect**
+# Architect
 
+We engineer scale.
 
-## I Do...
+**Focus:**
+* High velocity backend systems with 0 downtime tolerance.
+* Bleeding-edge AI/ML integration for measurable enterprise automation.
+* Unbreakable CI/CD and system resilience.
 
-* Architect backends that don’t break under scale.
-* Build systems that automate what we waste time on.
-* Solve enterprise performance headpains with clean, measurable engineering.
+**Now:** * CEO @ Srini Corp. Architecting ultra low latency ERP infrastructure.
 
-
-
----
-
-
-* High volume backend systems
-* AI/ML Integration
-* Enterprise grade solutioning
-* CI/CD + system resilience
-
----
-
-* **Now:** Founder @ Srini Corp (Delaware)
-
----
-
-> **Write code that handles complex stuff.**
+> **Ruthless rationality. Outcome focus. Outworking everyone.**
