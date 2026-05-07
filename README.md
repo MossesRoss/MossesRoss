@@ -1,4 +1,4 @@
-# Architect
+# Architect (is what I_ call me)
 
 I engineer scale.
 
@@ -9,4 +9,4 @@ I engineer scale.
 
 **Now:** * Independent NetSuite Architect. Architecting ultra low latency ERP infrastructure.
 
-> **Ruthless rationality. Outcome focus. Outworking everyone.**
+> **Ruthless rationality. Outcome focus. Outworking past me-s.**
