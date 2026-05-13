@@ -3,7 +3,7 @@
 I engineer scale.
 
 **Focus:**
-* High velocity backend systems with 0 downtime tolerance.
+* High velocity backend systems.
 * Bleeding edge AI/ML integration for measurable enterprise automation.
 * Unbreakable CI/CD and system resilience.
 
