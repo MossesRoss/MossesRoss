@@ -1,4 +1,4 @@
-# Architect (is what I call me)
+# NetSuite Technical Architect & ERP Systems Engineer
 
 I engineer scale.
 
